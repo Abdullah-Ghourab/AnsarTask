@@ -1,5 +1,4 @@
 # AnsarTask
-====================================================
 This is a .NET Web API application that provides endpoints for managing `Person` objects. The application uses JWT authentication with claims or roles to secure the POST and DELETE endpoints. It also includes SQL Server as the data storage and Identity for user management.
 
 ## Prerequisites
