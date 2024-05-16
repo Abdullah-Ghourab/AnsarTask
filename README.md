@@ -11,7 +11,7 @@ This is a .NET Web API application that provides endpoints for managing `Person`
 
 1. Clone the repository or open the project in Visual Studio. git clone https://github.com/Abdullah-Ghourab/AnsarTask.git
 
-2. You have to change token issuer url based on the api running url
+2. You have to change token issuer url in tokenservice.cs file based on the api running url
 For example:https//localhost:1234
 
 3. Build and run the application in Visual Studio.
